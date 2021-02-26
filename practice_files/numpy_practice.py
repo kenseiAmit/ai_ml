@@ -234,4 +234,6 @@ import scipy.io.wavfile
 # print(square)
 
 # Broadcasting arrays
-sample_rate, data = scipy.io.wavfile.read('wavfile.wav')
+# sample_rate, data = scipy.io.wavfile.read('wavfile.wav')
+
+
